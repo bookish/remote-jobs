@@ -1,11 +1,34 @@
-# Glue Networks
+# Gluware 
+https://gluware.com/company/
 
-## Company blurb
+Glue Networks specializes in providing an enterprise-grade cloud networking service. Glue Virtual Office is available to enterprise customers through partnerships between Glue Networks and top service providers and value-added resellers. It was founded in 2007 and headquartered in Sacramento, California.
+## Company size
 
-⚠ We don't have much information about this company yet!
+20-50
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/glue-networks.md)
+Users of the site must ensure compliance with applicable local laws.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+Apache Maven
+Container
+Docker
+git
+Javascript
+npm
+Python
+Ruby
+
+## Office locations
+
+Gluware, Inc., 2020 L Street, Suite 130, Sacramento. CA 95811, telephone 1-915-877-8224, sales@gluware.com
+
+## How to apply
+
+https://gluware.com/jobs/
